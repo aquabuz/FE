@@ -1,11 +1,11 @@
 <template>
-  <grammar />
+  <VSCode />
 </template>
 
 <script>
-import grammar from './grammar.vue'
+import VSCode from './VSCode'
 export default {
-  components: { grammar },
+  components: { VSCode },
   name: 'IndexPage'
 }
 </script>
